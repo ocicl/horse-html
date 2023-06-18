@@ -1,10 +1,10 @@
 * horse-html
 
+horse-html is a ParenScript extension to generate HTML inside your
+ParenScript code.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ralt/horse-html.git   |
-| commit  | {"messa  |
-| systems | horse-html |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://gitlab.com/ralt/horse-html.git |
+| commit  | 25949066cf5039542f609c0e13baa3924a546f8a   |
+| systems | horse-html                                 |
+|---------+--------------------------------------------|
